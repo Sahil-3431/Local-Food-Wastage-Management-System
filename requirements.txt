@@ -3,5 +3,4 @@ pandas
 numpy
 plotly
 sqlalchemy
-pymysql
-mysql-connector-python
+psycopg2-binary
